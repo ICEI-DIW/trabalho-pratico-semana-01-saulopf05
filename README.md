@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Saulo Peixoto Ferreira
+Matricula: 734719
 
 ## Tela de inspeção com navegador
-
+![alt text](<Captura de tela 2025-02-26 211125.png>)
 
 ## Tela de projeto no Replit
-
+![alt text](<Captura de tela 2025-02-26 211148.png>)
